@@ -1,0 +1,1 @@
+Solution for the chess board question from TIIDELAB FELLOWSHIP
