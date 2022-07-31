@@ -4,11 +4,11 @@ function length(size){
     let str7 
     let str8
     if(size%2==0){
-        str7 =' '
+        str7 =''
         str8=''
 
         for(let i = 1; i <= size/2; i++){
-            str7=str7+'# '
+            str7=str7+' #'
             str8=str8+'# '
                 }
     }
